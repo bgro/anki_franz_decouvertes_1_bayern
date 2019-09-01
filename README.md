@@ -1,3 +1,5 @@
+# [Anki](https://apps.ankiweb.net/index.html) Kartensatz für Französisch-Lehrbuch Découvertes 1 (Bayern 2017) (bgro)
+
 Alle Wörter und Beispielsätze aus dem Vokabular des Schulbuchs Découvertes 1 für bayerische Gymnasien (6. Klasse) in der Augabe von 2017 (ISBN 978-3-12-622268-6). Jedes Wort wird "in drei Richtungen" abgefragt: von Deutsch nach Französisch, von Französisch nach Deutsch, und als Diktat.
 Der Kartensatz verwendet Tags, um die Karten den Kapiteln und Unterkapiteln zuzuordnen:
 
